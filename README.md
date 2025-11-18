@@ -15,6 +15,15 @@
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
+## 🦕 About My Github
+
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DaewonJeon&show_icons=true&theme=default" height="180px">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaewonJeon&layout=compact&theme=default" height="180px">
+
+</div>
 <!--
 
 **DaewonJeon/DaewonJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
