@@ -20,9 +20,10 @@
 
 <div align="left">
 
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=DaewonJeon&show_icons=true&theme=default" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaewonJeon&layout=compact&theme=default" height="180px">
-
+-->
 </div>
 <!--
 
